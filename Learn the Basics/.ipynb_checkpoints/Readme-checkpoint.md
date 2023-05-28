@@ -1,6 +1,6 @@
 # 学习基础知识
 
-原作者：[Suraj Subramanian](https://github.com/suraj813)、[Seth Juarez](https://github.com/sethjuarez/)、[Cassie Breviu](https://github.com/cassieview/)、[Dmitry Soshnikov]( Dmitry Soshnikov)、[Ari Bornstein](https://github.com/aribornstein/)
+原作者：[Suraj Subramanian](https://github.com/suraj813)、[Seth Juarez](https://github.com/sethjuarez/)、[Cassie Breviu](https://github.com/cassieview/)、[Dmitry Soshnikov](https://soshnikov.com/)、[Ari Bornstein](https://github.com/aribornstein/)
 
 大多数机器学习工作流都涉及处理数据、创建模型、优化模型参数和保存经过训练的模型。本教程向您介绍在 PyTorch 中实现完整的机器学习工作流程，并提供每个概念的链接已帮助理解。
 
@@ -10,7 +10,7 @@
 
 ## 运行教程代码
 
-- **在云服务器中**：这是最简单的入门方法！本文档最下方有一个“在 Google Colab 中运行”的链接，您可以在Google Colab 中打开一个代码位于完全托管的环境中的集成笔记本。
+- **在云服务器中**：这是最简单的入门方法！没一节的文档都有一个“在 Google Colab 中运行”的链接，您可以在Google Colab 中打开一个代码位于完全托管的环境中的集成笔记本。
 
 - **在本地运行**：此选项要求您首先在本地计算机上设置 PyTorch 和 TorchVision（[安装说明](https://pytorch.org/get-started/locally/)）。下载笔记本或将代码复制到您喜欢的 IDE 中。
 

@@ -8,7 +8,7 @@
 
 您可以通过多种方式运行本教程：
 
-- **在云服务器上运行**：这是最简单的入门方法！每一节有一个 Colab 链接，它会在完全托管的环境中打开一个包含代码的笔记本。提示：将 Colab 与 GPU 运行时结合使用以加快模型计算 *Runtime* > *Change runtime type* > *GPU*
+- **在云服务器上运行**：这是最简单的入门方法！每一节都有一个 Colab 链接，它会在完全托管的环境中打开一个包含代码的笔记本。提示：将 Colab 与 GPU 运行时结合使用以加快模型计算 *Runtime* > *Change runtime type* > *GPU*
 
 - **在本地运行**：此选项要求您首先在本地计算机上设置 PyTorch 和 TorchVision（[安装说明](https://pytorch.org/get-started/locally/)）。下载笔记本或将代码复制到您喜欢的 IDE 中。
 
